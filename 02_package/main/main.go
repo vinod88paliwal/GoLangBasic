@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoLangBasics/02_package/stringutil"
+	"GoLangBasic/02_package/stringutil"
 	"fmt"
 )
 
